@@ -25,9 +25,44 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/bootstrap.min.css",
+              "src/assets/css/line-icons.css",
+              "src/assets/css/owl.carousel.css",
+              "src/assets/css/owl.theme.css",
+              "src/assets/css/nivo-lightbox.css",
+              "src/assets/css/magnific-popup.css",
+              "src/assets/css/animate.css",
+              "src/assets/css/color-switcher.css",
+              "src/assets/css/menu_sideslide.css",
+              "src/assets/css/main.css",
+              "src/assets/css/responsive.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jquery-min.js",
+              "src/assets/js/popper.min.js",
+              "src/assets/js/bootstrap.min.js",
+              "src/assets/js/classie.js",
+              "src/assets/js/color-switcher.js",
+              "src/assets/js/jquery.mixitup.js",
+              "src/assets/js/nivo-lightbox.js",
+              "src/assets/js/owl.carousel.js",
+              "src/assets/js/jquery.stellar.min.js",
+              "src/assets/js/jquery.nav.js",
+              "src/assets/js/scrolling-nav.js",
+              "src/assets/js/jquery.easing.min.js",
+              "src/assets/js/wow.js",
+              "src/assets/js/jquery.vide.js",
+              "src/assets/js/jquery.counterup.min.js",
+              "src/assets/js/jquery.magnific-popup.min.js",
+              "src/assets/js/waypoints.min.js",
+              "src/assets/js/form-validator.min.js",
+              "src/assets/js/contact-form-script.js",
+              "src/assets/js/main.js",
+              "src/assets/js/map.js",
+              "src/assets/js/menu.js"
+              
+            ]
           },
           "configurations": {
             "production": {
@@ -94,5 +129,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "d54b551e-4738-4339-8abd-4c45baf2ece8"
   }
 }
