@@ -945,3 +945,9 @@
 .lni-zoom-out:before {
   content: "\ea32";
 }
+.lni-protection-alt:before {
+  content: "\e9ca";
+}
+.lni-protection:before {
+  content: "\e9cb";
+}

@@ -1,0 +1,8 @@
+/* .is-invalid{
+    border: 1px solid red;
+} */
+
+.help-block  .with-errors{
+    font-size: 12px;
+    color: red;
+}

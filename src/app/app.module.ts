@@ -9,6 +9,7 @@ import { ServicesComponent } from './services/services.component';
 import { CareersComponent } from './careers/careers.component';
 import { ContactusComponent } from './contactus/contactus.component';
 import { NavbarComponent } from './navbar/navbar.component';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -18,11 +19,12 @@ import { NavbarComponent } from './navbar/navbar.component';
     ServicesComponent,
     CareersComponent,
     ContactusComponent,
-    NavbarComponent
+    NavbarComponent,
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
